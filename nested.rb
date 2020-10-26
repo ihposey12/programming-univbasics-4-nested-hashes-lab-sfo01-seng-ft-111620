@@ -81,7 +81,7 @@ def adding_matz
         :languages => ["C"]
       }
     }
-programmer_hash[:yukihiro_matsumoto][1] = {
+programmer_hash[:yukihiro_matsumoto][3] = {
     known_for: "Ruby",
     languages: ["LISP", "C"]
   }
